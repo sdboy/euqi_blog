@@ -9,9 +9,8 @@ categories:
 author: Ray
 from: https://angular.dev/guide/components
 ---
-<!--more-->
 ## Angular核心概念之二：组件（component）
-
+<!--more-->
 component：是一段可以反复使用的页面片段如页头、轮播、手风琴...<br>
 组件（component）=模板（Template）+脚本（Script）+样式（Style）<br>
 在NG中任何一个*非独立组件*都必须声明在模块中，*独立组件*不用在模块中声明。*独立组件*是在Angular14引入的，使用时需要注意版本。<br>
